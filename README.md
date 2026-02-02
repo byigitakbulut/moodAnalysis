@@ -55,7 +55,7 @@ project/
 
 ```bash
 git clone https://github.com/byigitakbulut/moodAnalysis.git
-cd movie-sentiment-api
+cd moodAnalysis
 ```
 
 2.   Install dependencies:
