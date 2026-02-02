@@ -54,7 +54,7 @@ project/
 1.   Clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/movie-sentiment-api.git](https://github.com/yourusername/movie-sentiment-api.git)
+git clone https://github.com/byigitakbulut/moodAnalysis.git
 cd movie-sentiment-api
 ```
 
