@@ -46,7 +46,7 @@ project/
 │   └── modelSVM.pkl             # Pre-trained Scikit-learn Pipeline
 ├── app/
 │   └── main.py                  # FastAPI application & Regex Preprocessing
-|── requirements.txt             # Dependencies (FastAPI, Scikit-learn, joblib, etc.)
+├── requirements.txt             # Dependencies (FastAPI, Scikit-learn, joblib, etc.)
 ```
 
 ## Installation & Usage
